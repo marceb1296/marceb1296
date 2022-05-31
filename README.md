@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @marceb1296
-- 👀 I’m interested in any python code 🤭
-- 🌱 I’m currently learning fullstack with Django and html-css-javascript
-- 💞️ I’m looking to collaborate on any Django and python project 🤗
+- 👀 I’m interested in any python/js/sql code 🤭
+- 🌱 I’m currently learning fullstack with Django and html-css-javascript/Reactjs
+- 💞️ I’m looking to collaborate on any Django/Reactjs project 🤗
 - 📫 How to reach me? marce_1996hr@hotmail.com, I prefer emails, old school 🤪
 
 <!---
